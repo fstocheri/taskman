@@ -53,7 +53,7 @@ $ taskman list --status all --sort priority
 ## Running it
 
 ```bash
-git clone https://github.com/ftocheri/taskman.git
+git clone https://github.com/fstocheri/taskman.git
 cd taskman
 dotnet run --project src/TaskMan -- add "Try this out"
 dotnet run --project src/TaskMan -- list
